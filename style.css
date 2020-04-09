@@ -1,0 +1,18 @@
+body{
+    font-family: 'Comic Neue', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgba(255, 166, 0, 0.815);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 50%;
+}
